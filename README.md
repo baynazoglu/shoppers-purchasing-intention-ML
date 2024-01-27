@@ -1,6 +1,7 @@
 ## shoppers-purchasing-intention-ML
 Online Shoppers Purchasing Intention Dataset Machine Learning Project
-"""
+
+<img src="https://github.com/baynazoglu/shoppers-purchasing-intention-ML/blob/main/customers.png" alt="Image" width="600" height="420">
 
 # 1.Introduction
 E-commerce is a very large business sector which gives shoppers access to a large variety of goods and services with a few clicks.
